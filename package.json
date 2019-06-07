@@ -43,6 +43,6 @@
     "moment": "^2.22.1",
     "react": "^16.3.1",
     "react-dom": "^16.3.1",
-    "styled-components": "^3.2.5"
+    "styled-components": "^4.3.1"
   }
 }
